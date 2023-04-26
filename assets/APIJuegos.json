@@ -1,0 +1,83 @@
+
+[
+    {
+       "id":1,
+       "nombre":"Mortal Kombat 11",
+       "precio":3500,
+       "descripcion":"Multiplayer, Pelea, Online, Historia.",
+       "stock":10,
+       "cantidad":1,
+       "img":"./img/MK11Cover.jpg",
+       "alt":"MK 11"
+    },
+    {
+       "id":2,
+       "nombre":"The Last of Us",
+       "precio":3000,
+       "descripcion":"Survival, Historia, Singleplayer.",
+       "stock":10,
+       "cantidad":1,
+       "img":"./img/TLOUCover.jpg",
+       "alt":"TLOU"
+    },
+    {
+       "id":3,
+       "nombre":"Back 4 Blood",
+       "precio":4750,
+       "descripcion":"Multiplayer, Shooter, Survival.",
+       "stock":10,
+       "cantidad":1,
+       "img":"./img/Back4BloodCover.jpg",
+       "alt":"B4B"
+    },
+    {
+       "id":4,
+       "nombre":"GTA V",
+       "precio":3700,
+       "descripcion":"Online, Singleplayer, Shooter.",
+       "stock":10,
+       "cantidad":1,
+       "img":"./img/GTA5Cover.jpg",
+       "alt":"GTA V"
+    },
+    {
+       "id":5,
+       "nombre":"Injustice 2",
+       "precio":3000,
+       "descripcion":"Multiplayer, Pelea, Online, Historia.",
+       "stock":10,
+       "cantidad":1,
+       "img":"./img/Injustice2Cover.jpg",
+       "alt":"Injustice 2"
+    },
+    {
+       "id":6,
+       "nombre":"The Witcher 3",
+       "precio":5000,
+       "descripcion":"Survival, RPG, Mundo Abierto, Singleplayer.",
+       "stock":10,
+       "cantidad":1,
+       "img":"./img/Witcher3Cover.jpg",
+       "alt":"The Witcher 3"
+    },
+    {
+       "id":7,
+       "nombre":"Portal 2",
+       "precio":2500,
+       "descripcion":"Singleplayer, Shooter, Historia.",
+       "stock":10,
+       "cantidad":1,
+       "img":"./img/Portal2Cover.jpg",
+       "alt":"Portal 2"
+    },
+    {
+       "id":8,
+       "nombre":"Skyrim",
+       "precio":3200,
+       "descripcion":"Survival, RPG, Mundo Abierto, Singleplayer.",
+       "stock":10,
+       "cantidad":1,
+       "img":"./img/SkyrimCover.png",
+       "alt":"Skyrim"
+    }
+ ]
